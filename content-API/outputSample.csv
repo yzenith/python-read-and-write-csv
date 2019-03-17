@@ -1,0 +1,3028 @@
+id,merged_ids,currency_code,time_zone,star_rating,phone_number,content_updated_at,name,location_description,description,address,locality,region,postal_code,country_code,latitude,longitude,brand,chain,amenities,images,room_types
+2823e7e0-9f26-4d03-af66-fd1cf5f64f1d,"[u'7bdbbf62-39e9-52de-935c-e64fe268417d', u'338f1851-f612-5d31-9580-5265120936b3']",USD,America/New_York,3.0,407-396-4488,2019-03-14T07:40:39.533Z,Seralago Hotel & Suites,Disney Main Gate East/Kissimmee,"<p><span>Located near all Orlando attractions! 3 miles from the main gate of Disney World, and within walking distance to Old Town, an entertainment/shopping complex.</span></p>
+<p><span>Family friendly hotel conveniently located to all major area attractions.  The hotels feature 614 guest rooms which include mini refrigerators, microwave ovens and iron/ironing boards.  All rooms are 100% NON SMOKING.  Hotel amenities include a complimentary high speed wireless internet, full service restaurant for breakfast, food court, lounge, pool bar, 2 Olympic pools, kiddie pool, playground and free movies nightly in our in-hotel theater. The Hotel also offers complimentary transportation to Disney Ticket Center, and Universal.</span></p>
+<p><span>Guests may purchase theme park tickets in the property. Guests may purchase tickers to Disney World Theme Parks, Universal Studios, Busch Gardens, Aquatica, and all Dinner Theathre Shows.</span></p>
+<p><span> ~The property offers 7 handicap accesible rooms and 3 of those rooms offer roll in showes. Please check for availability.~</span></p>
+<p><span><br></span></p>
+<p><em><span>*<strong>PLEASE NOTE</strong> -WHILE THE PROPERTY DOES ACCEPT PETS LESS THAN 40 POUNDS, PETS ARE ONLY ACCEPTED IN THE STANDARD ROOMS.  THERE IS A $40 NON-REFUNDABLE PET FEE THAT WILL BE CHARGED AT THE HOTEL.*</span></em></p>",5678 W. Irlo Bronson Memorial Highway,Kissimmee,NA,34746,US,28.331128,-81.511602,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 095b2309-ab07-49cb-be64-3acdf5811885 
+ name: Children's Play Area 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 46610dc9-8fa8-4ee9-b033-173cf2f89014 
+ name: Jacuzzi or Spa 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 63dc45e8-0c45-4b96-8d04-c411761f3959 
+ name: Babysitting Services 
+id: 6e1fead1-6120-4c5f-bfd6-53616c550fa5 
+ name: Swimming Pool - Outdoor 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: a8a4c939-a412-4043-8d81-e3dd1e646094 
+ name: Tennis Court 
+id: ae88fa98-d933-48fc-9096-071dc59a011d 
+ name: Game Room 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: fc419fff-c43c-4d01-822d-aaceb20526eb 
+ name: Pet Friendly 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: fe955628-2a97-445a-8c5c-4e95287f8a51 
+ name: Standard 
+ description:  
+ amenities: id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: bd8534b1-6003-48cf-81b7-16bf50236acf 
+ name: Standard King - Non Smoking 
+ description:  
+ amenities: id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 5433fc9d-9555-429f-adf6-231375bb3505 
+ name: Poolside Room - Non Smoking 
+ description:  
+ amenities: id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 777f2847-8033-490a-a1a0-5506986a6a98 
+ name: 2 Room Suite - Non Smoking 
+ description:  
+ amenities: id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cbf1e949-d66a-490b-bfca-561141117244 
+ name: Kitchenette 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 5547edd0-5294-4a07-92c4-15891910ba46 
+ name: Kids Suite-Non Smoking 
+ description:  
+ amenities: id: 05eed042-e65c-45db-adc5-0e35db302a55 
+ name: Video Game Console 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+"
+b41ce02e-69a3-4a28-8bf8-2ab48d0d4135,[u'6a63c81b-eade-54a5-8a21-13aec5aecfb8'],USD,America/New_York,3.0,407-387-2200,2019-03-14T07:41:11.315Z,Blue Heron Beach Resort,Near Lake Buena Vista/Disney Maingate,"<p>The <strong>Blue Heron Beach Resort</strong>, a lakefront resort featuring one- and two-bedroom, condominium-style suites is just one mile from the entrance to the <strong>Walt Disney World </strong>and located just off Interstate 4 at exit 68.   In addition to their immediate proximity to<strong> Disney World</strong>, they are also just four miles from <strong>SeaWorld</strong> and their new water park, <strong>Aquatica</strong>.  <strong>Universal Studios</strong> and <strong>Islands of Adventure</strong> are eight short miles north on Interstate 4.  The <strong>Premium Outlet Mall</strong>, just one mile from our front door offers discounted merchandise from some of the world’s most recognizable names. They are in the midst of Lake Buena Vista, the primary tourist area where you’ll find hundreds of restaurants, shops and entertainment venues.</p>
+<p>The <strong>Blue Heron Beach Resort</strong> offers one- and two-bedroom suites with living room and patio overlooking the resort pools andLakeBryan.  Each suite also has a full kitchen, dining area and two full baths.  In-suite amenities include flat screen TV’s with DVD players, high speed internet, washer and dryer and Jacuzzi-jetted tub in the master bath.   </p>
+<p>Resort amenities include two heated pools, a kid’s pool, an outdoor hot tub, fitness center, game room, access to the miniature golf course adjacent to the hotel, and water sports available from their own docks on Lake Bryan.  Services include a complimentary shuttle to the major theme parks.  Parking is free. The full service concierge can help you with car rental, attraction tickets and/or restaurant reservations.  </p>
+<p> </p>
+<p>*Please note: A Daily Resort Fee of $12.95 will be collected at property level upon check in.</p>",13428 Blue Heron Beach Dr,Orlando,NA,32821,US,28.3687305,-81.5020262,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 040744fc-9759-454d-964a-ba195a78361e 
+ name: Free Full Breakfast Sit-down 
+id: 08c4f384-02d7-4807-b520-ded1ee44e7cf 
+ name: Car Rental 
+id: 095b2309-ab07-49cb-be64-3acdf5811885 
+ name: Children's Play Area 
+id: 1686f9d8-fb52-4971-8d76-7150f1e1f56b 
+ name: Free Full Breakfast Buffet 
+id: 187f1779-1219-4d2d-8925-be887653842e 
+ name: Beachfront 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 397b0a59-349b-445c-9794-ee706a0d8eb2 
+ name: Supervised kids activities 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 46610dc9-8fa8-4ee9-b033-173cf2f89014 
+ name: Jacuzzi or Spa 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: 579d9c14-03c2-47d2-97bd-b2967901c1e3 
+ name: Swimming Pool - Indoor 
+id: 5d9c77ea-dc98-422b-9f09-98607464ea96 
+ name: Swimming Pool - Outdoor Heated 
+id: 63dc45e8-0c45-4b96-8d04-c411761f3959 
+ name: Babysitting Services 
+id: 6e1fead1-6120-4c5f-bfd6-53616c550fa5 
+ name: Swimming Pool - Outdoor 
+id: 7408d682-d8ba-41a1-8d30-91e04a5b9f4d 
+ name: Sundries shop 
+id: 81a25a4c-0d91-4c20-baf7-27b3b4bd700f 
+ name: Free Continental Breakfast 
+id: 953364a2-ffb8-44f7-9d34-279eae130d0b 
+ name: Swimming Pool - Indoor Heated 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: a4157b2e-2469-49cc-b3a2-95c1e6631463 
+ name: Internet Access - Public Access for fee 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: a8a4c939-a412-4043-8d81-e3dd1e646094 
+ name: Tennis Court 
+id: ae88fa98-d933-48fc-9096-071dc59a011d 
+ name: Game Room 
+id: b09e147c-8ba1-4496-a3d1-349f68bd01b7 
+ name: Security Guard 
+id: b77c1437-3a55-4c97-b722-1868c3c05420 
+ name: Currency Exchange 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: c2e8668c-8276-4836-bfe8-35513365f3f1 
+ name: Airport Transportation 
+id: c33e41e6-e7e3-4736-ac91-9d321412b54f 
+ name: Free local telephone calls 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: d419d269-e34f-47ba-9f5f-daf81390e45a 
+ name: BBQ Grills 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: ea833916-aae2-4401-bbd4-ba92119b1dfb 
+ name: Waterfront 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: f9be8154-4335-43cf-8df8-d5a50ca4587f 
+ name: Attraction Shuttle Service 
+id: fc419fff-c43c-4d01-822d-aaceb20526eb 
+ name: Pet Friendly 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: af6ee6e2-270a-4c52-a85b-94c484d8e61e 
+ name: Family Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: 8c3db9e4-883b-425e-8299-7df6abbc3b33 
+ name: Sunrise Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: 013305c8-be59-4923-b218-3ab284b6aa34 
+ name: Deluxe Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: e78e03b1-52a1-44f7-a88c-4696aaa8d0b1 
+ name: Deluxe - UNAVAILABLE 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+ 
+ images:  
+id: 3b51e57f-aca5-40ec-82b2-4a749cf75a75 
+ name: Deluxe - UNAVAILABLE 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: 5ca5c4b4-f076-445f-9fbc-1966be98fe39 
+ name: Family Suite - UNAVAILABLE 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: 803e0677-f7ba-422e-9f41-4acc8257e461 
+ name: Family Suite - UNAVAILABLE 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: 62c36599-ac4d-483a-a4c9-27f020ca0d23 
+ name: family - non-refundable 
+ description:  
+ amenities:  
+ images:  
+"
+bf7bdcbc-83e5-4fba-b3a9-bc0f97f222f5,"[u'5acb916d-9464-5176-97b3-3464d36d8a88', u'a94d1431-c9f7-5959-9a16-4240f821c43b']",USD,US/Eastern,4.0,407-238-8000,2019-03-14T07:41:09.944Z,Caribe Royale All Suites Hotel,All Suite Hotel in the Lake Buena Vista Area,"<p>At the Caribe Royale All-Suite Hotel and Convention Center, business and pleasure go hand in hand. From the very beginning, they’ve redefined and elevated the standards of the meeting, conference and family vacation experience in Florida.</p>
+<p>Here among the more than 53 lush, tropical acres, guests will discover 1,218 spacious, well-appointed one-bedroom suites, the Island Spa, expansive state-of-the-art meeting and event facilities, unmatched hospitality and service and a wealth of desirable dining options and hotel amenities that will appeal to both families and business professionals alike. And it all can be found just minutes from the area’s world famous theme parks and attractions.</p>
+<p>Plus, at Caribe Royale, they never charge resort fees. All guests receive free parking, free scheduled shuttles to the Walt Disney World® Theme Parks, Lake Buena Vista Outlets and the Premium outlets on Vineland Road and an evening shuttle to the Downtown Disney® area. Also, guests may purchase them park tickets in the property.Complimentary cable in a high-definition format is now available on their brand-new, flat-panel HD LCD televisions throughout all of the rooms.</p>
+<p>A variety of dining options are available including The Venetian Room, the Hotels' AAA Four Diamond fine-dining restaurant and three additional restaurants and lounges. The property also features Island Spa which offers nail, massage, and complete body treatments.</p>
+<p>~The property offers 79 handicap accesible rooms and 16 of those rooms offer roll in showers. Please check for availability.~</p>
+<p><em><strong>**Please Note:</strong> The property is not pet friendly.<strong>** </strong></em></p>
+<p> </p>
+<p> </p>
+<p><em><strong>*Please note: Valet parking fee is $16.00 per day</strong></em></p>",8101 World Center Drive,Orlando,NA,32821,US,28.3579994,-81.5050267,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 08c4f384-02d7-4807-b520-ded1ee44e7cf 
+ name: Car Rental 
+id: 095b2309-ab07-49cb-be64-3acdf5811885 
+ name: Children's Play Area 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 46610dc9-8fa8-4ee9-b033-173cf2f89014 
+ name: Jacuzzi or Spa 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: 5d9c77ea-dc98-422b-9f09-98607464ea96 
+ name: Swimming Pool - Outdoor Heated 
+id: 6e1fead1-6120-4c5f-bfd6-53616c550fa5 
+ name: Swimming Pool - Outdoor 
+id: 7408d682-d8ba-41a1-8d30-91e04a5b9f4d 
+ name: Sundries shop 
+id: a4157b2e-2469-49cc-b3a2-95c1e6631463 
+ name: Internet Access - Public Access for fee 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: a8a4c939-a412-4043-8d81-e3dd1e646094 
+ name: Tennis Court 
+id: ae88fa98-d933-48fc-9096-071dc59a011d 
+ name: Game Room 
+id: b09e147c-8ba1-4496-a3d1-349f68bd01b7 
+ name: Security Guard 
+id: b77c1437-3a55-4c97-b722-1868c3c05420 
+ name: Currency Exchange 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: f9be8154-4335-43cf-8df8-d5a50ca4587f 
+ name: Attraction Shuttle Service 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 3488e4f5-9435-49a8-8b16-c191052f3198 
+ name: Double Queen Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 0e1c52fe-82fd-413f-a341-ec5d0da896cd 
+ name: King Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: f48df2dc-ec9d-4147-a8f0-0571d66aaa23 
+ name: Deluxe King Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 1ad411c9-daf0-45e0-b0b3-c05d9e84aeea 
+ name: Two-Bedroom Villa 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: 31a3bddf-4453-458c-8faa-712c7cffb8f5 
+ name: Double Queen Suite-FL Resident Rate - TO BE DELETED 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 53de6e19-6026-4136-87df-8c7c6f87e29e 
+ name: Advance Purchase Double Queen Suite - Non Refundable - TO BE DELETED 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+"
+7547d917-54f9-4836-8d3a-1848882c95ab,[u'5b3980d4-585b-558f-98ac-cdf77195ea23'],USD,US/Eastern,3.0,407-396-1808,2019-03-14T07:40:40.690Z,Fantasy World Villas Resort,New multimillion dollar Pool & Surf experience,"<p> </p>
+<p><span>Conveniently situated minutes from world renowned Orlando attractions including Walt Disney World Resort, Universal Studios and Sea World Orlando. Fantasy World Resort offers a warm home away from home. Each two-bedroom two-bath Mediterranean-style townhome, which offer enough space to accommodate six guests, comes equipped with a bevy of amenities such as complimentary wireless internet access, a full kitchen and a washer and dryer.</span></p>
+<p><span>With Fantasy World's wide range of facilities, there's never a shortage of things to do no matter what your age. Enjoy the newly renovated pool area, practice your serve out on the resort's lighted tennis courts, or stay in shape in the exercise center, which has flat screen TVs, sauna &amp; steam room. Kids can enjoy the onsite video game room after frolicking in the playground. Business travelers can avail themselves of Fantasy World Resort's business center. Free scheduled transportation to Walt Disney World, Sea World Orlando and Universal Studios is provided via the lobby concierge.</span></p>
+<p><strong><span>Fantasy World features the new $14 million renovated Pool area with two additional pools. This beautiful new area includes a zero entry pool,  \2 - 5 story water slides, lazy river, and kiddie splash zone.  The new pool area also includes three hot tubs, a double sided fireplace for gatherings, and sprawling pool deck and enhanced pool bar with 3 TVs – serving lite fare.  Cabanas are available for all guests to rent on a daily basis.</span></strong><span> </span></p>
+<p><span>The NEW activities building features <strong>virtual golf for all guests</strong><span> </span>– charges will apply. A single golfer can choose from 1 of 20 courses, and complete 18 holes of golf rain or shine, in less than an hour!  On the 2<sup>nd</sup><span> </span>floor of the activities center is an enlarged workout facility with cardio machines, free weights, and weight machines.  After a hard workout guests can unwind in their choice of the sauna or steam room.   </span></p>
+<p><span>The resort charges a daily resort fee of $12.50 collected at check in. The resort fee includes access to the following amenities: </span></p>
+<p><span>·         Scheduled transportation to Theme Parks</span></p>
+<p><span>·         Zero Entry Pool, 2 - 5 story water slides, and 2 hot tubs</span></p>
+<p><span>·         Doubled sided fireplace</span></p>
+<p><span>·         Jr. Olympic lap pool with hot tub</span></p>
+<p><span>·         Gas BBQ Grills</span></p>
+<p><span>·         Lazy River</span></p>
+<p><span>·         Kiddie Splash Zone</span></p>
+<p><span>·         Wi-Fi in the villas and public areas</span></p>",5005 Kyng's Heath Road,Kissimmee,NA,34746,US,28.3352,-81.485307,NA,NA,"id: 095b2309-ab07-49cb-be64-3acdf5811885 
+ name: Children's Play Area 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 397b0a59-349b-445c-9794-ee706a0d8eb2 
+ name: Supervised kids activities 
+id: 46610dc9-8fa8-4ee9-b033-173cf2f89014 
+ name: Jacuzzi or Spa 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 6e1fead1-6120-4c5f-bfd6-53616c550fa5 
+ name: Swimming Pool - Outdoor 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: a4157b2e-2469-49cc-b3a2-95c1e6631463 
+ name: Internet Access - Public Access for fee 
+id: a8a4c939-a412-4043-8d81-e3dd1e646094 
+ name: Tennis Court 
+id: ae88fa98-d933-48fc-9096-071dc59a011d 
+ name: Game Room 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: d419d269-e34f-47ba-9f5f-daf81390e45a 
+ name: BBQ Grills 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: f9be8154-4335-43cf-8df8-d5a50ca4587f 
+ name: Attraction Shuttle Service 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: fb4834e2-a32e-4ba3-9459-2ee5fd142cc2 
+ name: 2 Bedroom Villa with 2 Fantasy Surf Sessions 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: ddfdfbdb-86a0-440c-837e-3b9224c6e3f9 
+ name: Advance Purchase - 2 Bedroom Villa with Full Kitchen 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: 76b440a1-3297-471c-b18c-9135e4c1b626 
+ name: 2 Bedroom Villa with Full Kitchen 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+"
+4a312e50-b40f-4a3b-b04a-c15b32897c3a,[u'c81f6641-527b-508a-b204-968b25ca530a'],USD,America/Los_Angeles,4.0,310-476-6571,2019-03-13T03:35:45.092Z,Luxe Hotel Sunset Blvd,At the intersection of Brentwood and Bel Air.,"<p>Luxe Hotel Sunset Boulevard is an urban retreat located on seven acres of lush, pristine property perfectly perched at the intersection of Brentwood and Bel Air. Convenient to Los Angeles International Airport, and some of the most prestigious sites in Los Angeles, including The Getty Center, Santa Monica Beach, UCLA, Skirball Cultural Center, Riviera Country Club, and Pacific Palisades, Luxe Hotel Sunset Boulevard offers an urban oasis in the middle of one of the nation’s largest cities.</p>
+<p>This chic boutique Bel Air Brentwood hotel offers stylish and supremely comfortable personalized care and service in a modern California environment. Whether your visit is for business or pleasure, Luxe Hotel Sunset Boulevard is the perfect place to enjoy the highest level of personalized attention. Welcome home to the Luxe.</p>
+<p>Hotel Features:</p>
+<p>160 Spacious Non Smoking Guestrooms and Suites</p>
+<p>Premium Amenities</p>
+<p>Outdoor Heated Swimming Pool</p>
+<p>Tennis Court</p>
+<p>Fitness Suite</p>
+<p>Zen-inspired Spa</p>
+<p>Concierge Services</p>
+<p>Nightly Turndown Service</p>
+<p>Daily Newspaper</p>
+<p>Laundry, Dry-cleaning and Pressing Services</p>
+<p>Safe Deposit Boxes</p>
+<p>Complimentary Wi-Fi Throughout Hotel</p>
+<p>BusinessCenter</p>
+<p>Secretarial Services</p>
+<p>24-hour In-Room Dining</p>
+<p>Chic “On Sunset” Restaurant</p>
+<p>“Luxe Lounge” Bar</p>
+<p>Pet-Friendly $250 Pet fee per pet under 40 pds</p>
+<p>Valet Parking $25 + tax nightly / per car (subject to change)</p>
+<p>Luxe Boutique</p>",11461 Sunset Blvd,Los Angeles,NA,90049,US,34.07262,-118.46865,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: 6e1fead1-6120-4c5f-bfd6-53616c550fa5 
+ name: Swimming Pool - Outdoor 
+id: 7408d682-d8ba-41a1-8d30-91e04a5b9f4d 
+ name: Sundries shop 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: a8a4c939-a412-4043-8d81-e3dd1e646094 
+ name: Tennis Court 
+id: b09e147c-8ba1-4496-a3d1-349f68bd01b7 
+ name: Security Guard 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fc419fff-c43c-4d01-822d-aaceb20526eb 
+ name: Pet Friendly 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 3c7136eb-4203-45c2-9760-abceb529702e 
+ name: Superior Room Special 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+ 
+ images:  
+id: 68ec1206-3e82-4a5e-b6f1-c71c1431f3fb 
+ name: Superior Room - 1 King or 2 Doubles 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+ 
+ images:  
+id: 375a6d7f-1c67-45e6-a51a-cc79f3f6ae7f 
+ name: Superior Room NON-REFUNDABLE 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+ 
+ images:  
+"
+45f63ea3-17fb-4da7-94f1-79b10b0c088f,"[u'99201c65-388b-5a4a-b9b3-933a058bedc2', u'c08c0a71-03f4-5cb3-bf1d-3782622ba0d7']",USD,America/New_York,3.0,407-828-2828,2019-03-14T07:40:43.436Z,Royal Plaza Hotel-Downtown Disney- Lake Buena Vista,Downtown Disney,"<p><span>Royal Plaza is within walking distance of the Downtown Disney® area, with complimentary transportation to ALL Walt Disney World Theme Parks and Water Parks. This location is also approximately 20 miles from Orlando International Airport, a mile from the Premium Outlet Mall, eight miles from Sea World® Orlando, nine miles from the Orange County Convention Center, and 10 miles from Wet and Wild Water Park and Universal Studios®.<br> <br> Hotel amenities include the Disney Gift Shop, swimming pool, 4 lighted tennis courts, fitness center, and preferred tee times at all 4 Walt Disney World® Resort golf courses. The onsite Giraffe Cafe is a casual dining spot for breakfast and dinner. Giraffe Lounge is a full-service bar with sports, pool, and darts. The Grab-n-Go offers self-serve snacks and light meals, and Sips Pool Bar offers appetizers, snacks, and sandwiches by the pool. Kids 10 &amp; under eat free for breakfast.<span> </span><br> <br> All rooms feature pillow top mattresses, three layers of white sheets, duvet comforters, six plush pillows, in-room movies, wireless and wired Internet access, ceiling fans, coffee and tea facilities, safes, sleeper sofas, granite vanities, and balconies or patio areas.</span></p>
+<p><span>Kids (10) and under Eat FREE for Dinner Only (with 1 paying adult)</span></p>",1905 Hotel Plaza Blvd.,Lake Buena Vista,NA,32830,US,28.3764254,-81.5082696,NA,NA,"id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 46610dc9-8fa8-4ee9-b033-173cf2f89014 
+ name: Jacuzzi or Spa 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 63dc45e8-0c45-4b96-8d04-c411761f3959 
+ name: Babysitting Services 
+id: 6e1fead1-6120-4c5f-bfd6-53616c550fa5 
+ name: Swimming Pool - Outdoor 
+id: a4157b2e-2469-49cc-b3a2-95c1e6631463 
+ name: Internet Access - Public Access for fee 
+id: a8a4c939-a412-4043-8d81-e3dd1e646094 
+ name: Tennis Court 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 3348f402-c5bd-4532-b9f9-74e307777833 
+ name: Traditional Room 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+ 
+ images:  
+id: d666d2ea-7c7b-4690-b883-027ee1e92b42 
+ name: Traditional Room - Advance Purchase 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+ 
+ images:  
+id: 9bf566d0-00a3-4a7d-89e3-7da12f671e14 
+ name: Deluxe Tower 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 69aa241a-656a-4ff2-b232-4c7b50eb295c 
+ name: Deluxe Tower - Advance Purchase 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 5ed19198-41de-4765-a66d-cf9f4b3f2f6a 
+ name: Premier Tower 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 2a0be51d-178f-46e0-8251-886f8b0fd605 
+ name: Premier Tower - Advance Purchase 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 48745a42-65c5-4784-8225-0b30e4e17303 
+ name: Traditional Room - Includes Breakfast for 2! Limited Time Offer!!! 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+ 
+ images:  
+id: ecd741f5-412f-460a-9e2e-f8760c8a294f 
+ name: Deluxe Tower - Includes Breakfast for 2! Limited Time Offer!!! 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+ 
+ images:  
+id: 068ce5f5-ca08-4f43-a06a-a5e401d0b7ae 
+ name: TO BE DELETED 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: a146122e-d893-4cb3-bf43-a0c0aadd55c6 
+ name: TO BE DELETED 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+"
+4e6260fb-923d-4a8f-ac59-9b8bbd7817bb,[],USD,America/New_York,3.0,212-545-8000,2019-03-14T07:40:39.874Z,The Gershwin Hotel,Union Square/Empire State Building,"<p>Catering to the budget-minded, The Gershwin Hotel is an ideal base from which to explore everything New York has to offer. Located in the stylish Flatiron District of Manhattan, just minutes from the Empire State Building, The Gershwin Hotel is mere steps from shopping along Fifth Avenue as well as a wide array of unique clubs, bars and restaurants. Step inside and admire the original artwork of famous artists ranging from Andy Warhol to Stefan Lindfors. The artwork extends into the property's spacious and comfortable rooms, which feature hardwood floors and amenities including premium movie channels and free wireless internet access. The hotel also provides free wireless internet access in all public areas as well as 24 hour security, babysitting and laundry services, and a multilingual staff that is ready to answer all of your questions and ensure that your stay in New York is a memorable one.</p>",7 East 27th Street,New York,NA,10016,US,40.7437295,-73.9869525,NA,NA,"id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: a4157b2e-2469-49cc-b3a2-95c1e6631463 
+ name: Internet Access - Public Access for fee 
+id: b09e147c-8ba1-4496-a3d1-349f68bd01b7 
+ name: Security Guard 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+",,"id: 93218103-4484-4d79-980f-53cb998336e7 
+ name: Superior Twin 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 34d31c88-7c21-4705-8b1d-8feb54f2e3fd 
+ name: Superior Double 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 1db44680-43e3-47dd-8e43-7e4c8f8929e2 
+ name: Superior Queen 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: ea855431-52b5-4cd5-9c8f-680bec2f8bb1 
+ name: Superior Double - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 131d6721-9875-482f-873d-528dc3f64fe1 
+ name: Superior Queen - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: adf3f39b-a7b0-4c8e-b7d1-a1b8fe2b0a98 
+ name: Superior Twin - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: b76c87e3-898b-45bf-a7b9-71f10ef67a8a 
+ name: Le Standard Room 
+ description:  
+ amenities:  
+ images:  
+"
+6a8c9f13-9737-4e5d-984e-460d5e7049f1,[],USD,America/New_York,2.0,212-840-6700,2019-03-14T07:40:50.850Z,Americana Inn,Midtown - garment district,"<p>Located at 69 West 38th Street, this 54-room hotel is just one block from Fifth Avenue and within easy walking distance of Broadway, the Empire State Building, Macy's Herald Square, the Manhattan Mall and Times Square. Americana Inn is ideally suited for travelers in search of a value-priced hotel in midtown Manhattan. Its comfortable rooms come with either one twin bed, one full size bed, or two twin beds, as well as flat-screen TVs, telephones and other amenities. Shared bathrooms, each recently renovated, are available on all floors, as are shared kitchenettes equipped with microwaves and refrigerators. Take advantage of a full range of concierge services ranging from theater tickets and restaurant reservations to tour information. For your convenience, internet access is available in the hotel lobby for a small fee.</p>",69 West 38th Street,New York,NA,10018,US,40.7521266,-73.985442,NA,NA,"id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: a4157b2e-2469-49cc-b3a2-95c1e6631463 
+ name: Internet Access - Public Access for fee 
+id: c2e8668c-8276-4836-bfe8-35513365f3f1 
+ name: Airport Transportation 
+",,"id: 3ec77b4d-31a2-4c83-bad5-8772b05aa281 
+ name: 1 Twin 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+ 
+ images:  
+id: 46b7e1d4-a978-42e9-804b-dde17985be03 
+ name: Double Twin 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+ 
+ images:  
+id: dd225295-67eb-4250-8cc4-a3cded5f6534 
+ name: Double 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: cbf1e949-d66a-490b-bfca-561141117244 
+ name: Kitchenette 
+ 
+ images:  
+"
+66ab1fac-fbfb-4460-afec-ecc86884c36c,[],USD,America/New_York,3.0,212-245-7000,2019-03-14T07:40:43.810Z,Belvedere Hotel,Times Square,"<p>Built in Art Deco style during the 1920s, this boutique New York City hotel mingles an elegant ambiance with comfortable, first-class accommodations in Midtown Manhattan. The <strong>Belvedere Hotel</strong> is located at West 48th Street between 8th and 9th Avenues, right in the heart of the world-famous Theater District. It is within easy walking distance of Times Square, Restaurant Row, Rockefeller Center, Radio City Music Hall, Carnegie Hall, Lincoln Center, and the Museum of Modern Art, and just minutes away from Fifth Avenue shopping and Central Park.</p>
+<p>Let the hotel's soothing earthy tones and amicable staff put you at ease following a busy day of work or sightseeing. Its recently refurbished rooms are well appointed with one king or two double beds, internet access (fee), pink-marble bathrooms with shower/tub combination and kitchenettes that include a microwave, refrigerator and coffeemaker. Travelers can start their day with a Continental or full American breakfast at the <strong>Belvedere Café</strong>. Enjoy a workout in the state-of-the-art fitness center or head to the hotel's Rodizio-style steakhouse, The <strong>Churrascaria Plataforma</strong>, where delicious wine serves as the perfect accompaniment to succulent cuts of meat. Boasting more than 1,600 square feet of meeting space, the hotel makes a welcome venue for a seminar or private gathering. If you'd prefer to dine in the comfort of your guestroom, take advantage of the property's room service. Dry cleaning/laundry services and valet parking are also offered onsite. Plus, a full-service concierge is ready to assist you with restaurant reservations, theater tickets and sightseeing tours.</p>
+<p> </p>",319 West 48th Street,New York,NA,10036,US,40.7619,-73.987805,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: a4157b2e-2469-49cc-b3a2-95c1e6631463 
+ name: Internet Access - Public Access for fee 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: b09e147c-8ba1-4496-a3d1-349f68bd01b7 
+ name: Security Guard 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 91ac527a-028c-4f67-866e-212d16f109b8 
+ name: Deluxe Double Double 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: cbf1e949-d66a-490b-bfca-561141117244 
+ name: Kitchenette 
+ 
+ images:  
+id: fa6ae504-4a93-435f-a04e-8b522ce51c2c 
+ name: Deluxe King 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: cbf1e949-d66a-490b-bfca-561141117244 
+ name: Kitchenette 
+ 
+ images:  
+id: c261c2e5-0290-4b17-857f-cd2ddedeaee5 
+ name: Executive Double Double 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: cbf1e949-d66a-490b-bfca-561141117244 
+ name: Kitchenette 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 2c64a7ee-5fb2-471c-b4d6-cd2290c7fcb7 
+ name: Executive King 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: cbf1e949-d66a-490b-bfca-561141117244 
+ name: Kitchenette 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 43e1074a-9725-431e-8c2d-e00f152c28c6 
+ name: Deluxe Double Double NON-REFUNDABLE 
+ description:  
+ amenities: id: 05eed042-e65c-45db-adc5-0e35db302a55 
+ name: Video Game Console 
+id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: cbf1e949-d66a-490b-bfca-561141117244 
+ name: Kitchenette 
+ 
+ images:  
+id: ee5f3008-fe15-4059-a904-ffd3d5721971 
+ name: Deluxe King NON REFUNDABLE 
+ description:  
+ amenities: id: 05eed042-e65c-45db-adc5-0e35db302a55 
+ name: Video Game Console 
+id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: cbf1e949-d66a-490b-bfca-561141117244 
+ name: Kitchenette 
+ 
+ images:  
+id: b43aa981-281a-4220-8eb3-23dc3c1f29ce 
+ name: No Longer Available 
+ description:  
+ amenities: id: 05eed042-e65c-45db-adc5-0e35db302a55 
+ name: Video Game Console 
+id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: cbf1e949-d66a-490b-bfca-561141117244 
+ name: Kitchenette 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 311c5130-6796-4b7f-907b-eb616f3a365c 
+ name: ROMANCE GETAWAY Deluxe King 
+ description:  
+ amenities:  
+ images:  
+"
+2e984b51-46b0-4ef2-a53b-8a0c162d5fb0,[u'33f206de-7ea8-5b02-8fbb-338f21ace0b0'],USD,America/New_York,2.5,617-328-1500,2019-03-14T07:41:31.889Z,Best Western Adams Inn,Quincy / Riverfront,"<p>You'll find the best of Boston in historic Quincy! The Best Western Adams Inn offers travelers a comfortable place to stay, at affordable prices. Whether you're travelling for business or pleasure, you'll appreciate our close proximity to Boston.</p>
+<p>All the historic area attractions and downtown Boston are just minutes away off of Route 93 and the nearby MBTA Redline. Logan Airport, Fenway Park, The North End, Faneuil Hall, the Freedom Trail, the JFK library, Boston's museums and theatres, colleges and universities are all quickly accessible, as well as the area's renowned hospitals and medical centers. If you are in town for a conference, we are just a few miles from the World Trade Center, Hynes Convention Center, Bayside Expo Center, and the new Boston Convention and Exhibition Center.<br>Our facilities include 99 guest rooms, function rooms, a business center and our signature pier and gazebo on the river.  Guests will receive a coupon for free hote breakfast!</p>
+<p>Come and experience our friendly service and warm hospitality as we welcome you to New England. See what makes the Best Western Adams Inn the perfect choice for your Boston area visit!</p>",29 Hancock Street,Quincy,NA,02171,US,42.2833999,-71.0383096,NA,NA,"id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 6e1fead1-6120-4c5f-bfd6-53616c550fa5 
+ name: Swimming Pool - Outdoor 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: b09e147c-8ba1-4496-a3d1-349f68bd01b7 
+ name: Security Guard 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: c2e8668c-8276-4836-bfe8-35513365f3f1 
+ name: Airport Transportation 
+id: c33e41e6-e7e3-4736-ac91-9d321412b54f 
+ name: Free local telephone calls 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: ea833916-aae2-4401-bbd4-ba92119b1dfb 
+ name: Waterfront 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 8c65212c-c2c4-4e6b-a649-d4b66a193adc 
+ name: Non Smoking Standard Double 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+"
+2968f9c4-0421-45ef-b739-92a3ed720df9,[],USD,America/Los_Angeles,2.5,415-626-0200,2019-03-14T07:41:31.106Z,Best Western Americania,South of Market,"<p>The newly renovated Best Western Americania is a SOMA hotel that captures the spirit of mid-century style. Understated references to classic American pastimes and pop-culture create a hotel experience well suited for families as well as business travelers.</p>
+<p>The Best Western Americania is a 143-room San Francisco boutique hotel with amusing and fun amenities. Each guestroom features playful, retro-style furnishings and board games. Some amenities include complimentary high-speed internet access, flat screen TVs, iPod docking stations, an outdoor heated swimming pool and sun deck, and Custom Burger and Lounge, where you can create the all-American meal of your dreams</p>
+<p><strong>On site Valet Parking is only $20 per night/per car with in/out privileges!</strong></p>
+<p> </p>",121 7th Street,San Francisco,NA,94108,US,37.778677,-122.409878,NA,NA,"id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 5d9c77ea-dc98-422b-9f09-98607464ea96 
+ name: Swimming Pool - Outdoor Heated 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fc419fff-c43c-4d01-822d-aaceb20526eb 
+ name: Pet Friendly 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 42bd8287-ccb1-46b4-b658-365046be0eb9 
+ name: Superior Queen or King 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+ 
+ images:  
+id: 72987e86-a9c7-4fc5-94a7-5ca2fcf043de 
+ name: Superior Double Double 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+ 
+ images:  
+id: 06528eeb-4f14-4e59-9902-91576997fd65 
+ name: Deluxe Family Room 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+ 
+ images:  
+"
+e9fb59b5-df45-4295-9158-a33418e2e6ec,"[u'5cc08969-91ad-5d99-a818-c40a6e443353', u'42cb78fb-3a6b-58ab-8ada-ab1356e934c0']",USD,America/New_York,3.0,781-485-3600,2019-03-14T07:40:37.530Z,Comfort Inn & Suites Logan International Airport,Logan International Airport,"<p>At the environmentally friendly, 100 percent non-smoking Comfort Inn &amp; Suites Logan International Airport, we do our best to ensure all your needs are met. This Revere, MA hotel is conveniently located just three miles from Boston Logan International Airport. For your convenience, we provide free 24-hour airport shuttle service and offer Park &amp; Fly packages that include up to 10 nights of parking.</p>",85 American Legion Highway,Revere,NA,02151,US,42.411058,-70.99961,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: 81a25a4c-0d91-4c20-baf7-27b3b4bd700f 
+ name: Free Continental Breakfast 
+id: 953364a2-ffb8-44f7-9d34-279eae130d0b 
+ name: Swimming Pool - Indoor Heated 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: b09e147c-8ba1-4496-a3d1-349f68bd01b7 
+ name: Security Guard 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: c2e8668c-8276-4836-bfe8-35513365f3f1 
+ name: Airport Transportation 
+id: c33e41e6-e7e3-4736-ac91-9d321412b54f 
+ name: Free local telephone calls 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fc419fff-c43c-4d01-822d-aaceb20526eb 
+ name: Pet Friendly 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 48610755-5d2d-46cf-bae5-34ea5179a942 
+ name: Standard Queen 
+ description:  
+ amenities:  
+ images:  
+id: 035ad78b-fed2-4735-aff0-4cb482cf6cd5 
+ name: Standard Double Queen Room 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 726fdf86-2d37-41d2-a764-44fc335bbcb7 
+ name: King Suite 
+ description:  
+ amenities:  
+ images:  
+"
+0d6f111e-0cb8-4923-917a-853f64626cac,[u'a70d92c0-dc8f-57a5-8175-d45bbdb86a28'],USD,America/Los_Angeles,3.0,415-392-4666,2019-03-14T07:41:32.369Z,Executive Hotel Vintage Court,Between Nob Hill and Union Square,"<p>A stylish wine country themed boutique hotel.  Reflecting the warmth and hospitality of the nearby wine country, each of boutique hotels' 106 non-smoking guest rooms are named for a local California winery.  Along with artifacts from each namesake winery, the hotel's accommodations feature newly renovated furnishings and fabrics.</p>
+<p>As of July 2011 is now $30.00 USD for <strong><span>self  parking</span></strong> service and $40.00 USD for <strong><span>valet parking</span></strong> service.   Each of these  prices also includes a 14% parking city tax fee.</p>
+<p> </p>
+<p> </p>",650 Bush Street,San Francisco,NA,94108,US,37.790463,-122.408109,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 9f18d057-6f09-43de-942b-be9baef6a196 
+ name: King Bed 
+ description:  
+ amenities: id: 05eed042-e65c-45db-adc5-0e35db302a55 
+ name: Video Game Console 
+id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 942c1af9-4904-4449-8b51-44df6e83ff32 
+ name: Queen Bed 
+ description:  
+ amenities: id: 05eed042-e65c-45db-adc5-0e35db302a55 
+ name: Video Game Console 
+id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: bf95e3a6-f96d-4c2e-a60d-f7811f7872e6 
+ name: Two Double Beds 
+ description:  
+ amenities:  
+ images:  
+id: 80d31bab-1bfe-4371-b4f2-6567e4587496 
+ name: King Non Refundable 
+ description:  
+ amenities:  
+ images:  
+id: f7207559-fefb-40d9-bfb4-2083e215be1c 
+ name: Executive Queen with Wine Reception-Non-Refundable 
+ description:  
+ amenities: id: 05eed042-e65c-45db-adc5-0e35db302a55 
+ name: Video Game Console 
+id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: cf950e6c-5dc0-48a0-be91-e97405f02367 
+ name: Two Doubles Non Refundable 
+ description:  
+ amenities:  
+ images:  
+"
+60f1786c-602e-4379-b180-41b3ddca0361,[],USD,America/Los_Angeles,3.5,415-922-3200,2019-03-13T03:35:42.387Z,"Hotel Kabuki, a Joie de Vivre Boutique Hotel",Japan Town / Near Fisherman's Wharf,"<p>Renovated in 2007, <strong>Hotel Kabuki</strong>, a Joie de Vivre Boutique Hotel, delights business and leisure travelers alike with comfortable accommodations, gracious hospitality and exceptional amenities in a relaxed setting. The hotel’s elegant décor reflects a thoughtful blend of Eastern and Western influences. Housed in two wings that border a series of small, rock-lined Japanese gardens and a koi pond are the hotel’s 218 non-smoking guestrooms. Each overlooks the hotel’s interior courtyard or surrounding streets and is beautifully adorned with Japanese artworks and furnishings. Eastern details such as shoji panels, Japanese-style soaking tubs and tatami mats combine with western-style beds and amenities including 26-inch flat LCD televisions with HD channels, wireless internet, iPod docking stations and ergonomic chairs.</p>
+<p>Guests can stay fit in Hotel Kabuki’s 24-hour fitness room. Business travelers can take advantage of the property's 14 well-appointed meeting rooms, some of which offer tranquil garden views, and a 24-hour business center equipped with high-speed internet access. Designed by Michael Guthrie, <strong>O Izakaya Lounge </strong>is open Wednesday through Sunday and offers savory cuisine infused with traditional Asian flavors. If you prefer to go out on the town for dinner, choose from nearby restaurants including <strong>Takara</strong>, <strong>Bushitei</strong> and <strong>Mum’s Restaurant and Bar</strong>. <strong>Hotel Kabuki</strong> also offers daily laundry and dry cleaning services, a complimentary morning newspaper and in-room spa treatments.</p>
+<p>Nestled in the heart of San Francisco’s vibrant <strong>JapanTown</strong>, this Japanese-style hotel is centrally located near the shops and restaurants of trendy <strong>Fillmore Street</strong>, 12 blocks from <strong>Union Square</strong>, and within two miles of the <strong>San Francisco Museum of Modern Art</strong>, <strong>Fisherman’s Wharf</strong>, <strong>North Beach</strong> and the <strong>Moscone Center</strong>. Also within close proximity are San Francisco’s <strong>Sundance Kabuki Cinema</strong>, the <strong>Golden Gate Bridge</strong>, <strong>Golden Gate</strong> and <strong>Chinatown</strong>. <strong>Hotel Kabuki</strong>,<strong> </strong>nestled at the base of Pacific Heights, captures the true spirit of Asia while placing travelers near the best San Francisco has to offer.</p>
+<p><span><br></span></p>",1625 Post Street,San Francisco,NA,64155,US,37.785393,-122.42857,NA,NA,"id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: b09e147c-8ba1-4496-a3d1-349f68bd01b7 
+ name: Security Guard 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fc419fff-c43c-4d01-822d-aaceb20526eb 
+ name: Pet Friendly 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: bfdbf657-6af1-4c74-b49c-c0b144081b7e 
+ name: King Room 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: c0e58285-5fe8-495b-90ab-56766f7faa37 
+ name: Double Double Room 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+id: cf9bb5ac-7b08-4817-94f9-412a4f5f7325 
+ name: Balcony 
+ 
+ images:  
+id: c44fa9d6-7378-423f-8a09-30ec38099272 
+ name: King Room-30 day advance purchase 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 9f2f481d-18de-49d4-aba8-67c10e147a51 
+ name: Double Double-30 day advance purchase 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: c2b88b92-e1af-49ba-b9b9-a23a94445276 
+ name: Standard Room Special Promotion- Non Refundable 
+ description:  
+ amenities:  
+ images:  
+"
+bde05ff1-90a6-4345-a6be-b358e94120d8,[u'0331338f-18af-51ff-9951-3662a45a3d2f'],USD,America/Los_Angeles,4.0,415-394-1111,2019-03-14T07:41:15.760Z,Hotel Nikko San Francisco,Union Square,"<p>Hotel Nikko San Francisco is a sanctuary of serenity in the midst of one of America's most vibrant cities. <br>Its warm demeanor, soothing comfort and impeccable service make it a distinctive destination.</p>
+<p>Ideally located in the very heart of the city, Hotel Nikko is a short walk from Moscone Center and the financial district as well as the fine shops, theaters and restaurants at Union Square.</p>
+<p>This property is 100% NON SMOKING.</p>",222 Mason Street,San Francisco,NA,94102,US,37.785679,-122.409253,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 08c4f384-02d7-4807-b520-ded1ee44e7cf 
+ name: Car Rental 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 46610dc9-8fa8-4ee9-b033-173cf2f89014 
+ name: Jacuzzi or Spa 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 953364a2-ffb8-44f7-9d34-279eae130d0b 
+ name: Swimming Pool - Indoor Heated 
+id: a4157b2e-2469-49cc-b3a2-95c1e6631463 
+ name: Internet Access - Public Access for fee 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: b09e147c-8ba1-4496-a3d1-349f68bd01b7 
+ name: Security Guard 
+id: b77c1437-3a55-4c97-b722-1868c3c05420 
+ name: Currency Exchange 
+id: c2e8668c-8276-4836-bfe8-35513365f3f1 
+ name: Airport Transportation 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fc419fff-c43c-4d01-822d-aaceb20526eb 
+ name: Pet Friendly 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: c3c00ea8-ee85-448c-bfeb-f61a2207d029 
+ name: Petite Queen Room 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 92e9f99a-8715-463c-a309-c31cd79de1bf 
+ name: Deluxe King Room 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 080f6bb3-dc90-4a22-8c0b-1fd1e18238f2 
+ name: Petite Queen-Non Refundable 
+ description:  
+ amenities:  
+ images:  
+id: ff047f73-1a28-4539-a277-b97afc1a33b0 
+ name: Deluxe King- Non Refundable 
+ description:  
+ amenities:  
+ images:  
+"
+6fc03609-920f-4553-9794-680b21d1145e,"[u'0b92113c-a6cf-563c-bebe-d097229e2f2f', u'eba62c5e-e60e-580f-aa87-cbb469f46182']",USD,America/Los_Angeles,3.5,415-626-8000,2019-03-14T07:40:42.169Z,Hotel Whitcomb,Civic Center / Market Street,"<p>Located in the heart of the theater and arts district, you're only minutes from the City's most famous attractions. You will also take comfort in the modern amenities of one of the 459 intimate guestrooms, or step up to any of the 12 elegantly appointed parlor suites.</p>",1231 Market Street,San Francisco,NA,94103,US,37.7782037,-122.4154786,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 08c4f384-02d7-4807-b520-ded1ee44e7cf 
+ name: Car Rental 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: a9522d3e-f251-4045-9315-a42ba1a00660 
+ name: Non-Smoking King 
+ description:  
+ amenities: id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 18d8d5e7-af8a-4029-bb2f-ce9ac88ddf75 
+ name: Non-Smoking Queen 
+ description:  
+ amenities: id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 96b52adb-4e78-4c08-86ed-0fdfbeb6c8dc 
+ name: Non-Smoking Double Double 
+ description:  
+ amenities: id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: e63a22aa-3ed4-4442-9ef3-4ff7ba935a07 
+ name: Parlor King Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+"
+11058125-91b5-404a-9b70-0663d39281b0,[],USD,America/New_York,3.5,212-362-7700,2019-03-14T07:40:55.668Z,Hotel Belleclaire,Upper West Side at 77th Street,"<p>The desirable Upper West Side of New York City is a fusion of vibrant culture, groundbreaking theatrical performances, globally renowned institutions, upscale designer shopping, and world-class gourmet dining. Nearby attractions include the famous Beacon Theatre, The American Museum of Natural History, Central Park, New York Historical Society, Lincoln Center, and Columbus Circle.</p>
+<p>Experience the enchanting history and architectural delight of a golden era. The historic landmark building is a New York City attraction all on its own. Designed by the distinguished architect Emery Roth in 1901-03, the building, once referred to as a skyscraper on Broadway, was first amid the luxurious buildings in New York City. In designing the Belleclaire, Roth combined Beaux Arts principles with Art Nouveau-Secessionist style that is regarded today as a “fascinating stylistic anomaly” worthy of landmark status.</p>
+<p>Thank you for your interest in the Hotel Belleclaire.  We are confident that our location, style, service, accommodations and rates provide our guests with the best hospitality value in New York City.</p>
+<p>o	Complimentary high-speed wireless internet</p>
+<p>o	Complimentary morning coffee and tea</p>
+<p>o	Complimentary welcome beverage upon arrival</p>
+<p>o	Complimentary overnight shoeshine</p>
+<p>o	Complimentary flight tracker: verify flight &amp; print boarding pass</p>
+<p>o	Complimentary newspaper (Monday-Friday)</p>
+<p>o	Complimentary business center</p>
+<p>o	Complimentary 24-hour state-of-the-art fitness center</p>
+<p>o	I-Pod docking stations with AM/FM radio and alarm clock</p>
+<p>o	32” flat TV screen TV with cable and pay-per-view movies</p>
+<p>o	2 Line telephone system/ private phone line</p>
+<p>o	Mini refrigerator</p>
+<p>o	DVD player with complimentary dvd movies (Parlor &amp; Family Suites)</p>
+<p>o	Microwave in room (Family Suites)</p>
+<p> </p>
+<p> </p>",250 West 77th Street,New York,NA,10024,US,40.7826849,-73.9813171,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 08c4f384-02d7-4807-b520-ded1ee44e7cf 
+ name: Car Rental 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: c2e8668c-8276-4836-bfe8-35513365f3f1 
+ name: Airport Transportation 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+",,"id: 3589f5f2-2aba-4ebb-9806-ce62f923788e 
+ name: Deluxe Queen 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: d07c0a2d-b29f-433d-bd3f-69bfed17e6cc 
+ name: Deluxe Queen - Non Refundable 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 2aa7d11e-30cd-4a36-922a-f1b7476404f9 
+ name: Washer/Dryer in room 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 795c069a-8c57-4feb-ab65-fcef9a3717b0 
+ name: Standard Full Room - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+ 
+ images:  
+id: d240301f-a468-4085-b028-0ba53b88616d 
+ name: Standard Full Room 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 260a589f-6724-4b6b-bc15-1b3549877646 
+ name: Superior Queen Bed - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 59f6baab-2626-44a8-afcb-65d8efe20921 
+ name: Superior Queen Bed 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 0e3b19e6-e353-4105-9733-5beddd86aa86 
+ name: Deluxe King - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 7814c89a-db96-4fef-8c81-6bef08daad25 
+ name: Deluxe King 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 67c25fa7-ae3b-4f37-890a-80078524e425 
+ name: Deluxe 2 Doubles - Non Refundables 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 8a8fc9af-5ec3-4c74-b9db-2dd7e2a3d905 
+ name: Deluxe 2 Doubles 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 5caf4890-2aca-4005-8bcc-68f263e3f78c 
+ name: Broadway King 
+ description:  
+ amenities:  
+ images:  
+id: 3f057605-5c6f-4b7e-adb4-2fa6e6903a6a 
+ name: Parlor Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 6ae13601-ef3d-4d53-9865-52be98fbcf1d 
+ name: Two Bedroom Family Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+"
+d5e2253f-66ce-44c3-bbd4-d2300e7d8e8b,[],USD,America/New_York,2.0,212-924-6700,2019-03-13T03:35:41.957Z,The Jane Hotel,West Village near SoHo,"<p>With a rich history stretching back to 1908, when the property - then called the America Seaman's Friend Society Sailors' Home and Institute - was originally built by William A. Boring as a hotel for sailors, the Hudson-facing Jane Hotel is embraced as an upscale hostel for today's discerning traveler. Located in the West Village at 113 Jane Street, the hotel is adjacent to the Meatpacking District and within walking distance of Union Square, SoHo and Chelsea.</p>
+<p>The building's nautical past is as alive today as ever. Charmingly old-fashioned, chic and truly cozy, each  50 sq. foot Standard Cabin conjures up feelings of being in a ship's cabin, all while providing modern appointments such as iPod docks, flat-screen TVs, DVD players, phones, alarm clocks and wireless internet. Guests share bathroom facilities (two showers, two toilets) with the entire floor; plans are under way to install a second bathroom on each floor in the coming months.</p>
+<p>With great rates, comfortable rooms, a splendid location, and what promises to be a fun mix of vintage furniture and stylish amenities, this hotel is an excellent choice for the adventurous traveler on a budget.</p>
+<p> </p>",113 Jane Street,New York,NA,10014,US,40.7381411,-74.0090347,NA,NA,"id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: ea833916-aae2-4401-bbd4-ba92119b1dfb 
+ name: Waterfront 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 22d38c7a-21b1-4c48-9ad4-4f7dd50705d6 
+ name: Standard Cabin - One Single Bed w/ Shared Bathroom 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 682b6a78-b2d4-4d3a-967a-aa618d9f6d30 
+ name: Bunk Bed Cabin - Shared Bath 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: a763d699-7947-491c-8877-44b655acb7b5 
+ name: Captain Cabin 
+ description:  
+ amenities: id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 85c71e5d-89e2-4555-91a8-7b0beb3d7602 
+ name: DVD Player 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+"
+b7a632f2-fcf4-4e0f-93d6-e906e6eb522d,"[u'4bebde77-0d61-50b6-bf8c-38a586ecc4a0', u'17851169-37b5-5ec6-a2b5-e0642191015d']",USD,America/New_York,2.0,305-531-3503,2019-03-14T07:41:15.183Z,Continental Hotel Oceanfront South Beach,Art Deco District - South Beach / Miami Beach,"<p>The Continental Oceanfront Hotel South Beach is a limited service property conveniently located on 18<sup>th</sup> Street and Collins Avenue in sunny Miami Beach, Florida; within walking distance to Ocean Drive, night spots, many other local attractions and is within 2 blocks of the Miami Beach Convention Center.</p>
+<p>Whether you are traveling for business or pleasure, the Continental Oceanfront Hotel is sure to have something for you. The property features 251 rooms with standard and oceanfront rooms included; two double beds are situated in each room.</p>
+<p>Continental Oceanfront Hotel features a variety of amenities; such as, an Olympic sized swimming pool with direct access to the beach, complimentary wireless internet access in the lobby, complimentary daily newspaper delivery, in-room safe, cable television, 24 hour front desk, concierge desk, meeting space and much more.</p>
+<p>Please Note: </p>
+<p>Starting 7/9 there will be hard construction at the property. The guests will not have access to the lobby area. The pool will be open for the remainder of July and will only be accessible from the outside of the building via 18th street.</p>",1825 Collins Avenue,Miami Beach,NA,33139,US,25.794431,-80.128343,NA,NA,"id: 187f1779-1219-4d2d-8925-be887653842e 
+ name: Beachfront 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: 5d9c77ea-dc98-422b-9f09-98607464ea96 
+ name: Swimming Pool - Outdoor Heated 
+id: 6e1fead1-6120-4c5f-bfd6-53616c550fa5 
+ name: Swimming Pool - Outdoor 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: ea833916-aae2-4401-bbd4-ba92119b1dfb 
+ name: Waterfront 
+",,"id: 326d3fa9-a4a6-499a-bf92-37e87a52a026 
+ name: Standard Room 
+ description:  
+ amenities: id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+ 
+ images:  
+id: 183c6c46-58f3-4e6b-ab81-ae95695de74e 
+ name: City View 
+ description:  
+ amenities: id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+ 
+ images:  
+id: 9f244179-ad9c-450e-8043-d16ef773f484 
+ name: Oceanfront Room 
+ description:  
+ amenities: id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+ 
+ images:  
+id: f99cc9ab-39db-492d-843c-cdbaa728562a 
+ name: REMOVE NR 
+ description:  
+ amenities: id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+ 
+ images:  
+id: 37514346-5021-4e13-92fa-138e0cf12daa 
+ name: REMOVE FLRES 
+ description:  
+ amenities: id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+ 
+ images:  
+"
+bf207e11-94dd-40f2-b8ac-22cca56f3986,[u'f0399ee5-be3f-5be9-abcd-d273582ab2ae'],USD,America/New_York,3.0,305-534-3800,2019-03-14T07:40:54.159Z,Townhouse Hotel,South Beach / Miami Beach,"<p><strong>Amenity highlights</strong>: Located on the north edge of South Beach, the Townhouse Hotel Miami is a streamlined affair a half-block from the beach. Fabric and carpeting come from Paris, complimentary wireless Internet access is available throughout. <strong>Complimentary Parisian Breakfast served daily</strong>. Bike rentals available, Gift shop, Beach section with chairs and umbrellas for rent. Hallways include benches, magazines, and artfully placed exercise equipment. On site is a popular sushi spot and a rooftop deck; after dark, it's an open-air bar. Plenty of tourist attractions are within walking distance, such as the Bass Museum of Art, Lincoln Road, and the Jackie Gleason Theater.</p>
+<p><strong><br></strong></p>",150 20th Street,Miami Beach,NA,33139,US,25.795203,-80.128818,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: 7408d682-d8ba-41a1-8d30-91e04a5b9f4d 
+ name: Sundries shop 
+id: 81a25a4c-0d91-4c20-baf7-27b3b4bd700f 
+ name: Free Continental Breakfast 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: cf1079bb-6898-4e80-bd8a-74a727a45d3b 
+ name: Ice Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: dcab3fc4-4b18-4d8f-8ffc-b5cc629c790d 
+ name: Laundry 
+id: ede15225-8c31-4ef1-9634-b591596edcc0 
+ name: Non-Smoking Facility 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 8a4682e2-aa10-44f8-a5b6-a12ce0581c87 
+ name: Standard 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 23e2e94d-8195-463f-ba3f-fec220dc4f9a 
+ name: Superior 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 47a95755-0ef5-4dbb-ac2b-a265f64799d1 
+ name: Standard - 30 Days Advance Purchase 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 9272cd1a-dbba-4238-a366-8cc8b8f237c0 
+ name: Removed - Standard - 60 days Advance Purchase 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: b1351444-3e3d-4b16-bcd8-48ad7aa1a871 
+ name: Removed - Standard - 90 Days Advance Purchase 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+"
+c077aeb2-1091-45bd-95df-ae3bbfe8cfb0,[u'18393d17-9033-5394-8ee5-59931e88902f'],USD,America/New_York,4.0,(212) 710-7000,2019-03-14T07:41:15.490Z,Hotel Mela,Boutique Hotel in Midtown Manhattan,"<p>Hotel Mela's modern guestrooms and suites are decorated with earth tone hues to create a blend of Manhattan chic and modern sophistication. Designed with a nod to the vibrant Italian and New York cultures, guestrooms and suites offer all the comforts of home along with state of the art technology.</p>
+<p>Guests are welcomed with all of the surprises and amenities you would expect from a modern boutique hotel in Midtown Manhattan, the heart of one of the greatest cities in the world.</p>
+<p>Throughout the hotel are references to the rich history of Manhattan and New York City - from the landmark districts and attractions to our sprawling backyard known as Central Park.</p>
+<p>Artwork depicting the spirit of the New York City adorns the hotel walls, offering inspiring renditions of some of the most famous of those attractions and districts, including: Fashion District, Subway, Grand Central Station, Times Square, Statue of Liberty, Brooklyn Bridge and Central Park.</p>
+<p>An out of the ordinary experience in the original out of the ordinary city, Hotel Mela truly has a style all its own. Accommodations at our Midtown Manhattan hotel are designed to inspire you with the grandeur of the city, while wrapping you in the amenities and comforts of home.</p>
+<p>Accommodations are tastefully decorated with soothing earth tone furnishings and accents, adding to an atmosphere of modern luxury and classic sophistication. They've been carefully designed to provide the utmost comfort and relaxation, boasting a full range of amenities including deluxe plush mattresses covered with fine duvets, Egyptian cotton linens, flat-screen LCD TVs and complimentary high-speed internet access. In addition, signature cocktails with unique flavors and succulent dishes infused with fresh ingredients served at the onsite Saju restaurant make it a splendid place in which to dine and unwind. Guests can also work out in the onsite fitness center. The multilingual staff and concierge are available to answer all of your questions and help you feel right at home.</p>
+<p> </p>",120 W. 44th St.,New York,NA,10036,US,40.756397,-73.984423,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 370462a3-993d-4880-ae49-e6d72a5b7900 
+ name: Restaurant 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 4e9a979c-1f31-45a1-9b4c-758c0c4e508a 
+ name: Wheelchair Access 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: a6a718be-f160-4758-ba89-b63674cd1c07 
+ name: ATM Machine 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fc419fff-c43c-4d01-822d-aaceb20526eb 
+ name: Pet Friendly 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 6adfedfb-f8fb-4f41-927f-9c2442649117 
+ name: Superior 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 017cf0f0-1f64-4008-aa5b-8d95cbee0afc 
+ name: Deluxe 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 1557309f-60cc-48e1-a6a9-0390f3d487c0 
+ name: Executive 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 5fe641c0-147e-4f49-bbce-b39bb80e9b9f 
+ name: Superior - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 76c2a741-fec0-47b3-9729-fc4c470f2eb2 
+ name: Deluxe - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+id: 5f09e1ee-8cca-4c41-967b-53c4b1478449 
+ name: Executive - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 1899583c-2375-464f-8511-5011b8a091ad 
+ name: Flat Screen TV 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 93de2850-5257-4822-abff-7d70c942cbc7 
+ name: Mini-Bar 
+id: 9c093fb3-e6b6-4f2f-92b0-6f6c6586fc8b 
+ name: MP3/iPod docking station 
+id: cf1fce3f-1583-4a37-b5f9-57512284bc53 
+ name: Internet Access - Free in room 
+ 
+ images:  
+"
+fa80a10e-b70f-421a-9c5e-bee691bcc774,[],USD,America/New_York,4.0,212-887-9400,2019-03-14T07:40:53.420Z,Flatotel,Midtown between Times Square & Central Park,"<p>The Flatotel Hotel, New York City is a contemporary, intimate and cosmopolitan hotel in midtown Manhattan. Featuring 272 deluxe rooms and suites with custom designed furniture and state of the art amenities. Flatotel offers boutique hotel intimacy with apartment size rooms. All rooms include:</p>
+<p>• Customized Bed with Luxurious Duvet</p>
+<p>• 100% Egyptian Cotton Bed Linens</p>
+<p>• Desk and Aeron chairs</p>
+<p>• Hi-Speed Internet Access</p>
+<p>Enjoy the finest in New York hotel accommodations, centrally located just steps away from all major New York City tourist attractions. Our accommodations are designed based on the American architect Frank Lloyd Wright's concepts.</p>
+<p><strong>Services &amp; Amenities</strong></p>
+<p>• Complimentary Use of our Sky Gym Fitness Center — located on the 46th floor- with cardiovascular equipment and free weights.</p>
+<p>• Gilchrist &amp; Soames Sprout out Collection of Bathroom Amenities in all Deluxe Guest Rooms</p>
+<p>• The Athletic &amp; Swim Club with an Olympic-size swimming pool is located across the street for a minimal charge.</p>
+<p>• Business Center — offers faxing, Internet usage, computer services, and other services at a minimal fee.</p>
+<p>• Concierge Services — personalized services provided to assist with special requests such as theater tickets, restaurant reservations, car service and airline bookings, just to name a few.</p>
+<p>• Microwave, coffee/tea maker, DVD Player, VCR, and i-Pod docking station available upon request.</p>
+<p>• Turndown Service available upon request</p>
+<p>• Complimentary Wired &amp; Wireless high speed internet access</p>
+<p>• Kids Program and Activities, see concierge for details</p>
+<p> </p>",135 W 52nd Street,New York,NA,10019,US,40.7618149,-73.9810708,NA,NA,"id: 0178b1e9-4478-40f5-92f3-82dafa958c12 
+ name: Room Service 
+id: 1daaf8a8-e290-4ae0-bac8-94f679f2a8a4 
+ name: 24 hour front desk 
+id: 2afa6168-4264-4292-8b13-a9ca8b206609 
+ name: Cable/Satellite TV 
+id: 305c4929-6527-4fe1-9d7b-415b5b1fb60f 
+ name: Fitness Center 
+id: 3d1e858d-ae96-4832-8179-b91164af7442 
+ name: Gift Shop 
+id: 47b87ea2-83e7-4d0c-8085-37867e40a92d 
+ name: Concierge 
+id: 9a1222ca-cd79-4147-915b-8d2ed10325a5 
+ name: Internet Access - Free Public Access 
+id: b9380ff4-5f7f-4108-a652-8cb508192a50 
+ name: Parking - Self 
+id: d338b9c0-7a2b-4a01-b040-03b0cb7d7dd4 
+ name: Parking - Valet 
+id: d38d9458-438e-4231-801b-dbdee4620831 
+ name: Dry cleaning service 
+id: f138706c-dbfd-4929-8fc5-d958465f6082 
+ name: Business Center 
+id: fd29d490-2e8c-4760-a75d-1dcd24065bb6 
+ name: Lounge/Bar 
+",,"id: 6e747e38-3081-4533-ab1c-6ca720fff552 
+ name: Standard Queen 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: d39d6b5a-59ba-4430-b9fe-7a31117e886e 
+ name: Deluxe King 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 24d54947-3158-4173-927d-f8649e8325ff 
+ name: Premium King Room 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: ebcd2d18-fdbf-4424-972d-655e45bb5e14 
+ name: One Bedroom Suite 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+id: e99b4a0d-c9c9-4364-b040-90faffc348f1 
+ name: Standard Queen - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 277d4bab-125e-4a71-9b9b-4bb025078592 
+ name: Deluxe King- Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: a371c62e-e943-4b9f-b736-05f7801d1dff 
+ name: Premium King Room - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+ 
+ images:  
+id: 9a2c7665-caf5-4b8c-889e-928071583972 
+ name: One Bedroom Suite - Non Refundable 
+ description:  
+ amenities: id: 095a83cc-d017-47a1-abe6-1e795046e87d 
+ name: Premium Movie Channels 
+id: 3901a661-6028-4c46-96d9-ac3106410e11 
+ name: Coffee Maker 
+id: 3aff70ae-b827-49a2-bd2b-480a7f1d5a54 
+ name: Refrigerator 
+id: 4b17af0b-90cb-47c2-af3a-0d94352a4943 
+ name: Hair Dryer 
+id: 792bdff6-1852-4e31-9e08-29483a7917e1 
+ name: Alarm Clock 
+id: 8c36eb8b-b6f2-4caf-9a3e-264881ddefe8 
+ name: Microwave 
+id: 8e833b32-f9ab-4009-98cd-2e46cae7ef55 
+ name: In room safe 
+id: 94128ac4-de0f-4ef7-bb6d-aa890d4f08a9 
+ name: Internet Access - in room for fee 
+id: d5baa1af-97cb-44d7-8c50-9266b51bee39 
+ name: Full Kitchen 
+ 
+ images:  
+"
